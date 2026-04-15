@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o9jNwab7vMqnzrL1UO6A-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#F2F6F8;strokeColor=#AEBFD0;" value="" vertex="1">
+        <mxCell id="o9jNwab7vMqnzrL1UO6A-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#F2F6F8;strokeColor=#AEBFD0;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="100" width="210" x="260" y="60" as="geometry" />
         </mxCell>
         <mxCell id="o9jNwab7vMqnzrL1UO6A-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DEEDE4;" value="" vertex="1">
           <mxGeometry height="40" width="65" x="365" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="o9jNwab7vMqnzrL1UO6A-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#F2F6F8;strokeColor=#AEBFD0;" value="" vertex="1">
+        <mxCell id="o9jNwab7vMqnzrL1UO6A-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#F2F6F8;strokeColor=#AEBFD0;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="100" width="210" x="260" y="180" as="geometry" />
         </mxCell>
         <mxCell id="o9jNwab7vMqnzrL1UO6A-76" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D9E2EE;" value="" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="o9jNwab7vMqnzrL1UO6A-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(40, 64, 89);&quot;&gt;&lt;b&gt;Observed Queries&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="80" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9jNwab7vMqnzrL1UO6A-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#F2F6F8;strokeColor=#AEBFD0;" value="" vertex="1">
+        <mxCell id="o9jNwab7vMqnzrL1UO6A-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#F2F6F8;strokeColor=#AEBFD0;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="220" width="210" x="30" y="60" as="geometry" />
         </mxCell>
         <mxCell id="o9jNwab7vMqnzrL1UO6A-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(40, 64, 89);&quot;&gt;&lt;b&gt;Page Space&lt;/b&gt;&lt;/font&gt;" vertex="1">
